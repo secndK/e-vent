@@ -1,0 +1,13 @@
+/* Changer la couleur de fond et du texte lors du hover */
+.nav-item .nav-link.active {
+    background-color: #fff !important; /* Couleur personnalisée (vert) */
+    color: #12a942 !important; /* Texte blanc */
+}
+.nav-item .nav-link:hover {
+    background-color: #e67e22 !important; /* Couleur personnalisée (cyan) */
+    color: #fff !important; /* Texte blanc */
+}
+
+/* Changer la couleur de fond et du texte pour l'élément actif */
+
+/* Changer également la couleur de l'icône lors du hover et active */
